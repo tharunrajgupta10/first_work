@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="work1 [file:/C:/Users/nimma/IdeaProjects/work1/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../target/scala-2.13/classes" />
+    <output-test url="file://$MODULE_DIR$/../../target/scala-2.13/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/scala" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: ch.qos.logback:logback-classic:1.2.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: ch.qos.logback:logback-core:1.2.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.fasterxml.jackson.core:jackson-annotations:2.12.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.fasterxml.jackson.core:jackson-core:2.12.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.fasterxml.jackson.core:jackson-databind:2.12.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.12.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.12.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.fasterxml.jackson.module:jackson-module-parameter-names:2.12.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.fasterxml:classmate:1.5.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.github.luben:zstd-jni:1.4.9-1:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.jayway.jsonpath:json-path:2.5.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.vaadin.external.google:android-json:0.0.20131108.vaadin1:jar" level="project" />
+    <orderEntry type="library" name="sbt: commons-codec:commons-codec:1.11:jar" level="project" />
+    <orderEntry type="library" name="sbt: commons-logging:commons-logging:1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.confluent:common-utils:6.2.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.confluent:kafka-avro-serializer:6.2.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.confluent:kafka-schema-registry-client:6.2.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.confluent:kafka-schema-serializer:6.2.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.confluent:kafka-streams-avro-serde:6.2.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.github.classgraph:classgraph:4.8.83:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.springfox:springfox-core:3.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.springfox:springfox-schema:3.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.springfox:springfox-spi:3.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.springfox:springfox-spring-web:3.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.springfox:springfox-spring-webflux:3.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.springfox:springfox-spring-webmvc:3.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.springfox:springfox-swagger-common:3.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.springfox:springfox-swagger-ui:3.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.springfox:springfox-swagger2:3.0.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.swagger.core.v3:swagger-annotations:2.1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.swagger:swagger-annotations:1.6.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.swagger:swagger-models:1.5.20:jar" level="project" />
+    <orderEntry type="library" name="sbt: jakarta.activation:jakarta.activation-api:1.2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: jakarta.annotation:jakarta.annotation-api:1.3.5:jar" level="project" />
+    <orderEntry type="library" name="sbt: jakarta.ws.rs:jakarta.ws.rs-api:2.1.6:jar" level="project" />
+    <orderEntry type="library" name="sbt: jakarta.xml.bind:jakarta.xml.bind-api:2.3.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: log4j:log4j:1.2.17:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.bytebuddy:byte-buddy-agent:1.10.20:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.bytebuddy:byte-buddy:1.10.20:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.minidev:accessors-smart:1.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: net.minidev:json-smart:2.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.avro:avro:1.10.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.commons:commons-compress:1.20:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.httpcomponents:httpclient:4.5.13:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.httpcomponents:httpcore:4.4.13:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.kafka:connect-api:2.8.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.kafka:connect-json:2.8.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.kafka:kafka-clients:6.2.0-ccs:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.kafka:kafka-streams:2.8.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.logging.log4j:log4j-api:2.14.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.logging.log4j:log4j-to-slf4j:2.14.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.tomcat.embed:tomcat-embed-core:9.0.48:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.tomcat.embed:tomcat-embed-el:9.0.48:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apache.tomcat.embed:tomcat-embed-websocket:9.0.48:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.apiguardian:apiguardian-api:1.1.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.assertj:assertj-core:3.19.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.glassfish.hk2.external:jakarta.inject:2.6.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.glassfish.hk2:osgi-resource-locator:1.0.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.glassfish.jersey.core:jersey-common:2.34:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.hamcrest:hamcrest:2.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.json:json:20210307:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.junit.jupiter:junit-jupiter-api:5.7.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.junit.jupiter:junit-jupiter-engine:5.7.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.junit.jupiter:junit-jupiter-params:5.7.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.junit.jupiter:junit-jupiter:5.7.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.junit.platform:junit-platform-commons:1.7.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.junit.platform:junit-platform-engine:1.7.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.lz4:lz4-java:1.7.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.mapstruct:mapstruct:1.3.1.Final:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.mockito:mockito-core:3.9.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.mockito:mockito-junit-jupiter:3.9.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.objenesis:objenesis:3.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.opentest4j:opentest4j:1.2.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.ow2.asm:asm:5.0.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.rocksdb:rocksdbjni:5.18.4:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.13.6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.skyscreamer:jsonassert:1.5.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:jul-to-slf4j:1.7.31:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:slf4j-api:2.0.0-alpha1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.slf4j:slf4j-log4j12:2.0.0-alpha1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework.boot:spring-boot-autoconfigure:2.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework.boot:spring-boot-starter-json:2.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework.boot:spring-boot-starter-logging:2.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework.boot:spring-boot-starter-test:2.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework.boot:spring-boot-starter-tomcat:2.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework.boot:spring-boot-starter-web:2.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework.boot:spring-boot-starter:2.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework.boot:spring-boot-test-autoconfigure:2.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework.boot:spring-boot-test:2.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework.boot:spring-boot:2.5.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework.plugin:spring-plugin-metadata:2.0.0.RELEASE:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework:spring-aop:5.3.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework:spring-beans:5.3.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework:spring-context:5.3.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework:spring-core:5.3.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework:spring-expression:5.3.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework:spring-jcl:5.3.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework:spring-test:5.3.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework:spring-web:5.3.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.springframework:spring-webmvc:5.3.8:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.xerial.snappy:snappy-java:1.1.8.1:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.xmlunit:xmlunit-core:2.8.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.yaml:snakeyaml:1.28:jar" level="project" />
+  </component>
+</module>
